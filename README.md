@@ -1,5 +1,4 @@
-# Marine Biodiversity Observation Trends & Sea Surface Temperature  
-## Indonesia (2015 – 2025)
+# Marine Biodiversity Observation Trends & Sea Surface Temperature –  Indonesia (2015 – 2025)
 
 ## Project Overview
 
@@ -106,15 +105,6 @@ Observed patterns likely reflect a combination of environmental variability, res
 
 ---
 
-## Future Work
-
-- Spatially explicit matching of biodiversity records with gridded SST  
-- Integration of additional environmental variables  
-- Species- or taxon-level exploratory analysis  
-- Predictive modeling using machine learning approaches  
-
----
-
 ## Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
@@ -128,3 +118,5 @@ Observed patterns likely reflect a combination of environmental variability, res
 **Henry Kevin**  
 Background: Information Systems | Data Science | Machine Learning  
 Focus: Environmental Data Analysis & Marine Biodiversity
+
+_Notes: This analysis reflects a junior-level, research-oriented data exploration with an emphasis on responsible interpretation and scientific transparency._
